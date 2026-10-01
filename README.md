@@ -12,6 +12,15 @@ Mein Fokus liegt auf verständlichen Oberflächen, nachvollziehbaren Prozessen u
 - **Development:** responsive Websites und Webanwendungen mit klarer Navigation und wiederverwendbaren Komponenten.
 - **Business Systems:** digitale Abläufe für Anfragen, Aufgaben und operative Organisation.
 
+## Öffentliche Code-Beispiele
+
+Zwei ausgewählte Arbeitsproben mit Quellcode, Projektbeschreibung und Anleitung zum lokalen Start:
+
+- **[Platzmacher – Next.js, React und TypeScript](https://github.com/cemwinter90-arch/platzmacher-portfolio):** responsive Dienstleistungswebsite mit wiederverwendbaren Komponenten und statischem Export.
+- **[GlanzWerkstatt – HTML, CSS und JavaScript](https://github.com/cemwinter90-arch/glanzwerkstatt-portfolio):** responsive Website mit eigenem Designsystem, mobiler Navigation und lokal eingebundenen Schriften.
+
+Die Portfolio-Kopien verwenden Demo-Kontaktdaten und eine eigene Versionsgeschichte. Interne Unterlagen und vertrauliche Projektbestandteile bleiben privat. Beide Projekte wurden mit KI-Unterstützung entwickelt.
+
 ## Ausgewählte Projekte
 
 | Projekt | Umsetzung und Schwerpunkt | Technologien |
