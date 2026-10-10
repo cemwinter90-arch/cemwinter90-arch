@@ -1,6 +1,6 @@
 # Kenny Winter
 
-### AI Automation · Development · Business Systems
+### Development · Business Systems · AI Automation
 
 Ich entwickle Websites und digitale Anwendungen mit Blick auf die Abläufe dahinter: Wie finden Menschen die richtigen Informationen? Wie werden aus Anfragen klare nächste Schritte? Und wo kann Automatisierung im Alltag helfen?
 
@@ -8,9 +8,9 @@ Mein Fokus liegt auf verständlichen Oberflächen, nachvollziehbaren Prozessen u
 
 ## Schwerpunkte
 
-- **AI Automation:** KI in Arbeitsabläufe einbinden, Informationen strukturiert erfassen und Ergebnisse vor der Weiterverarbeitung prüfen.
 - **Development:** responsive Websites und Webanwendungen mit klarer Navigation und wiederverwendbaren Komponenten.
 - **Business Systems:** digitale Abläufe für Anfragen, Aufgaben und operative Organisation.
+- **AI Automation:** KI in Arbeitsabläufe einbinden, Informationen strukturiert erfassen und Ergebnisse vor der Weiterverarbeitung prüfen.
 
 ## Öffentliche Code-Beispiele
 
