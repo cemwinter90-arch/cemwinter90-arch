@@ -25,7 +25,6 @@ Die Portfolio-Kopien verwenden Demo-Kontaktdaten und eine eigene Versionsgeschic
 
 | Projekt | Umsetzung und Schwerpunkt | Technologien |
 | --- | --- | --- |
-| [StromGasConnect](https://www.stromgasconnect.com/) | B2B-Website rund um Energie, Automatisierung und digitale Infrastruktur. Strukturierte Anfragewege und thematische Informationsseiten. | Next.js · React · TypeScript |
 | [GlanzWerkstatt Frankfurt](https://glanzwerkstatt-ffm.de/) | Website für Fahrzeugaufbereitung mit eigenem Designsystem, responsiver Darstellung und schlanker technischer Basis. | HTML · CSS · JavaScript |
 | [Platzmacher](https://platzmacher.eu/) | Dienstleistungswebsite für Entrümpelung und Haushaltsauflösung mit Leistungsübersicht, Ablaufdarstellung und Kontaktwegen. | Next.js · React · TypeScript |
 | [Dein Weg](https://deinweg-leben.de/) | Buch- und Markenwebsite mit visueller Erzählung und animierter Produktpräsentation. | Next.js · React · TypeScript |
