@@ -28,7 +28,7 @@ Die Portfolio-Kopien verwenden Demo-Kontaktdaten und eine eigene Versionsgeschic
 | [GlanzWerkstatt Frankfurt](https://glanzwerkstatt-ffm.de/) | Website für Fahrzeugaufbereitung mit eigenem Designsystem, responsiver Darstellung und schlanker technischer Basis. | HTML · CSS · JavaScript |
 | [Platzmacher](https://platzmacher.eu/) | Dienstleistungswebsite für Entrümpelung und Haushaltsauflösung mit Leistungsübersicht, Ablaufdarstellung und Kontaktwegen. | Next.js · React · TypeScript |
 | [Dein Weg](https://deinweg-leben.de/) | Buch- und Markenwebsite mit visueller Erzählung und animierter Produktpräsentation. | Next.js · React · TypeScript |
-| Reinglanz Gebäudeservice | Website-Projekt für einen B2B-Gebäudeservice mit wiederverwendbaren Gestaltungselementen und klarer Leistungsstruktur. | HTML · CSS · JavaScript |
+| [Reinglanz Gebäudeservice](https://reinglanz-clean.de/) | Website-Projekt für einen B2B-Gebäudeservice mit wiederverwendbaren Gestaltungselementen und klarer Leistungsstruktur. | HTML · CSS · JavaScript |
 
 Die verlinkten Websites geben einen Einblick in die Projekte. Quellcode und interne Projektunterlagen bleiben bei vertraulichen Arbeiten privat.
 
